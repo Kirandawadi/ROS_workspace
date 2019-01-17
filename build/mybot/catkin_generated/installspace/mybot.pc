@@ -1,0 +1,8 @@
+prefix=/home/kiran/construct_ws/install
+
+Name: mybot
+Description: Description of mybot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/kiran/construct_ws/install/lib 
+Requires: 
